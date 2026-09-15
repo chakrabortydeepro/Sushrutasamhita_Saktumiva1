@@ -1,0 +1,17 @@
+===== Transcriptions of the printed edition of the Carakasaṃhitā =====
+
+
+    * [[https://vaikuntha.ca/doku.php?id=wiki%3Asusrutaproject%3Acarakasamhita:carakasamhita| 1941 edition of the Carakasaṃhitā by Y. T. Ācārya]].  
+    
+
+===== Reading and collating manuscript transcriptions =====
+
+This transcription is handled by [[https://github.com/chchch/upama|Saktumiva ver.1 and Upama]]. 
+
+Here are [[https://saktumiva.org/wiki/users|further instructions for readers]].
+
+== Copyright and Licensing ==
+
+All files in this Github repository are copyrighted (C) Dominik Wujastyk 2020-2026. They are distributed under a [[https://creativecommons.org/licenses/by-sa/4.0/|Creative Commons BY-SA]] licence.
+
+

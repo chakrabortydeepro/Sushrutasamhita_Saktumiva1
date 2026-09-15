@@ -37,12 +37,12 @@ See [[wiki:susrutaproject:ms-iolr-taylor-1842:start|Taylor 1842]]
 
 For getting more acquainted with Saktumiva 1, here are 
 
-    * [[wiki:users|further instructions for readers]]
-    * [[wiki:editors| further instructions for editors]]
-    * [[wiki:syntax| Information about encoding syntax]]
-    * [[wiki:tei| information about the Text Encoding Initiative]]
-    * [[wiki:transcription| instructions about transcription]]
-    * [[wiki:orthography| instructions about orthography]]
+* [[wiki:users|further instructions for readers]]
+* [[wiki:editors| further instructions for editors]]
+* [[wiki:syntax| Information about encoding syntax]]
+* [[wiki:tei| information about the Text Encoding Initiative]]
+* [[wiki:transcription| instructions about transcription]]
+* [[wiki:orthography| instructions about orthography]]
 
 
 

@@ -1,0 +1,36 @@
+This website is part of the [[http://sushrutaproject.github.io|Suśruta Project]]
+
+This installation is specifically set up for working on the edition of the Nepalese version of the [[wiki:susrutaproject:start|Suśrutasaṃhitā]].
+
+==== Ḍalhaṇa's Nibandhasaṅgraha ====
+
+Also here are the transcription files of MS London IOLR Taylor 1842 (Eggeling catalogue 2646), that supports the //Suśrutasaṃhitā// and the commentary //Nibandhasaṅgraha// 
+by Ḍalhaṇa.  The MS does not support the //Suśrutapāṭhaśuddhi// of Candraṭa, as Eggeling asserted.  See [[wiki:ms-iolr-taylor-1842:start|MS London IOLR Taylor 1842 transcription]].
+
+This is a work-in-progress; any comments and suggestions are welcome (wujastyk+sushrutaproject AT 
+ gmail.com).
+
+==== Gayadāsa's Nyāyacandrikā ====
+
+The known manuscripts of Gayadāsa's early commentary on the //Suśrutasaṃhitā// are described in this [[https://sushrutaproject2.github.io/blog/2026/Notes-on-Gayadasas-Nyayacandrika/|project blog post of April 2026]].
+
+The Nyāyacandrikā on the Nidānasthāna was printed in Ācārya's 1938 edition of the //Suśrutasaṃhitā//.
+
+Partial transcriptions of these manuscripts are provided  [[wiki:susrutaproject:gayadasa:start|here]].
+
+== Saktumiva ==
+
+This **Saktumiva** instance is a platform written by Dr Charles Li for producing and publishing critical editions of Sanskrit texts. Users can produce transcriptions of documents, such as 
+manuscripts or printed editions, and then automatically collate them to produce an apparatus of variants.
+
+ 
+	* [[wiki:users]]
+	* [[wiki:editors]]
+	* [[wiki:transcription]]
+		* [[wiki:orthography]]
+	* [[wiki:tei]]
+
+For a demonstration of the digital apparatus, see [[https://saktumiva.org/wiki/dravyasamuddesa/start|Charles Li's Dravyasamuddeśa]].
+
+The Saktumiva code is available on [[https://github.com/chchch/upama|GitHub]].
+
