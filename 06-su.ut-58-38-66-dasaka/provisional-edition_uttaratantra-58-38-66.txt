@@ -2901,7 +2901,7 @@
                         <l>
                             <!--  <label xml:lang="en">6.64.31.add5</label>-->
                             <caesura/>
-                             malināni ca vāsāṃsi tathā śnānañ ca varjayed iti ||35|| </l>
+                             malināni ca vāsāṃsi tathā snānañ ca varjayed iti ||35|| </l>
                     </lg>
                     <lg xml:id="SS.6.64.31.add6">
                         <l>

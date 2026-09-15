@@ -2395,7 +2395,7 @@ iii) 19ef is placed after 18ab     -->
                     </lg>
 
                     <lg xml:id="SS.6.64.27.add5">
-                        <l> tatrā<unclear reason="damaged">pa</unclear>nītahārāṃś tu priyā nāryaḥ
+                        <l> tatrā<unclear reason="damaged">pa</unclear>nītahārāṃs tu priyā nāryaḥ
                             svalaṃkṛtāṃ | </l>
                     </lg>
 
