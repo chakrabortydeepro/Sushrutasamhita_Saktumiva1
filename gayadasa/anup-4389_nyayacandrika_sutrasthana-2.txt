@@ -54,7 +54,7 @@
 
                     <history>
                         <origin>
-                            <origDate calendar="Indi" when="0301">Śaka 1477 (1555 CE).</origDate>
+                            <origDate calendar="Indi" when="1555">Śaka 1477 (1555 CE).</origDate>
                             <!-- calendar can be "Vikrama", "Śaka", etc. Dates can be approximate or exact. -->
                         </origin>
                     </history>
