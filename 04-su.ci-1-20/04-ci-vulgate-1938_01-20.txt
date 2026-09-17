@@ -2425,16 +2425,16 @@
                     <lg xml:id="SS.4.5.18">
                         <l> apatānakinam asrastākṣam avakrabhruvam astabdhameḍhram asvedanam
                             avepanam apralāpinam akhaṭvāpātinam abahirāyāminaṃ copakramet | tatra
-                            prāg eva snehābhyaktaṃ svinnaśarīramavapīḍanena tīkṣṇenopakrameta
+                            prāg eva snehābhyaktaṃ svinnaśarīram avapīḍanena tīkṣṇenopakrameta
                             śiraḥśuddhyarthaṃ; anantaraṃ
-                            vidārigandhādikvāthamāṃsarasakṣīradadhipakvaṃ sarpiracchaṃ pāyayet,
+                            vidārigandhādikvāthamāṃsarasakṣīradadhipakvaṃ sarpir acchaṃ pāyayet,
                             tathā hi nātimātraṃ vāyuḥ prasarati; tato bhadradārvādivātaghnagaṇam
-                            āhṛtya sayavakolakulatthaṃ sānūpaudakamāṃsaṃ pañcavargamekataḥ
-                            prakvāthya tam ādāya kaṣāyam amlakṣīraiḥ sahonmiśraca
-                            sarpistailavasāmajjabhiḥ saha vipacenmadhurakapratīvāpaṃ, tad etat
+                            āhṛtya sayavakolakulatthaṃ sānūpaudakamāṃsaṃ pañcavargam ekataḥ
+                            prakvāthya tam ādāya kaṣāyam amlakṣīraiḥ sahonmiśrya
+                            sarpistailavasāmajjabhiḥ saha vipacen madhurakapratīvāpaṃ, tad etat
                             traivṛtam apatānakināṃ pariṣekāvagāhābhyaṅgapānabhojanānuvāsananasyeṣu
                             vidadhyāt; yathoktaiś ca svedavidhānaiḥ svedayet, balīyasi vāte
-                            sukhoṣṇatuṣabusakarīṣapūrṇe kūpe nidadhyādāmukhāt, taptāyāṃ vā
+                            sukhoṣṇatuṣabusakarīṣapūrṇe kūpe nidadhyād āmukhāt, taptāyāṃ vā
                             daśarātrāhṛtavegam upakrameta; vātavyādhicikitsitaṃ cāvekṣeta;
                             rakṣākarma ca kuryād iti || </l>
                     </lg>

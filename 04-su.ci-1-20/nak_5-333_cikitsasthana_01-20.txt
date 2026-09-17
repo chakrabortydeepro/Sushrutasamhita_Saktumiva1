@@ -2577,12 +2577,12 @@ Special Note:
 
                     <lg xml:id="SS.4.5.18">
                         <l> athāpa<sic>tākin</sic>am asrastākṣam avakrabhru<cb/>vam
-                            astabdhāṅgulam asvedanam avepanam <add place="bottom margin">m
-                                apralāpinam iti pāṭhaḥ <metamark
-                                    function="line-number-from-bottom">2</metamark></add>
-                            akhaṭvāyātinam abahirāyāminañ copa<sic
-                                ana="The mātrā of ā in krā seems to be attempted to be erased"
-                                >kra</sic>met | tatra<g ref="#newa-gap-filler"/>
+                            astabdhāṅgulam asvedanam ave<metamark place="above"
+                                function="pointer_to_scribal_note">∴</metamark><add
+                                place="bottom">m apralāpinam iti pāṭhaḥ<metamark
+                                    function="pointer_to_line_number"
+                            >2</metamark></add>pamānam akhaṭvāyātinam abahirāyāminañ
+                                tatra<g ref="#newa-gap-filler"/>
                             <lb n="6"/>prāgaiva snehābhyaktaṃ svinnaśarīram avapīḍena
                             tīkṣṇenopakramet śiraḥśuddhyarthaṃ | athānantaram
                             vidārigandhādikvāthekṣurasakṣīradadhivipakvaṃ sarppir accham
@@ -2590,24 +2590,20 @@ Special Note:
                             nātimātram vāyuḥ prasarati | tato bhadradārvādīni vātaghnāny
                             anyāni cāṅgāny āhṛtya yavakolakulatthāṃś ca sānūpodakamāṃsāny
                             ekataḥ kvāthyam ādāya kaṣāya<lb n="2"/>m amlakṣīraiḥ
-                            sahonmiśrya sarppistailavasāmajjābhiḥ saha pa<sic
-                                ana="Two syllables                             appearing to be pacet are almost erased."
-                            /><cb/>cet madhurakapratīvāpaṃ | tad etat trivṛtam
-                            apatānakinām pariṣekābhyaṅgapānabhojanānuvā<lb n="3"
-                                />sana<unclear ana="seems attempted to be cancelled."
-                                >na</unclear>syeṣu vidadhyād yathoktaiś ca svedavidhānaiḥ
-                            svedayed ba<sic
-                                ana="A syllable                             resembling lī is almost erased."
-                            /><cb/>līyasi vāte sukhoṣṇapariṣekapūrṇṇe nikhanet taptāyām vā
-                            | rathākāracullyāṃ | kṛsaravai<lb n="4"/>śavārapāyasair vvā
-                            svedayen mūlakoruvūkasphūrjjakārkkasaptalā<g
-                                ref="#newa-gap-filler"/><cb/>śaṅkhinīsvarasasiddham
-                            apatānakinām pariṣekādiṣu yojyam abhuktavatām pītam amlan
-                            dadhi mari<lb n="5"/>cayuktam apatānakam
-                                a<unclear>pa</unclear>hanti | sarppistailavasāmajjā vā
-                            etac chu<g ref="#newa-gap-filler"/><cb/>ddhavātāpatānakavidhim
-                            uktaṃ | saṃsṛṣṭe saṃsṛṣṭaṅ karttavyaṃ | vegāntareṣu cāvapīḍān
-                            dadyāt | tāmra<lb n="6"
+                            sahonmiśrya sarppistailavasāmajjābhiḥ saha
+                            pa<del>cet</del><cb/>cet madhurakapratīvāpaṃ | tad etat
+                            trivṛtam apatānakinām pariṣekābhyaṅgapānabhojanānuvā<lb n="3"
+                                />sana<del>na</del>syeṣu vidadhyād yathoktaiś ca
+                            svedavidhānaiḥ svedayed ba<del>lī</del><cb/>līyasi vāte
+                            sukhoṣṇapariṣekapūrṇṇe nikhanet taptāyām vā | rathākāracullyāṃ
+                            | kṛsaravai<lb n="4"/>śavārapāyasair vvā svedayen
+                                mūlakoruvūkasphūrjjakārkkasaptalā<g ref="#newa-gap-filler"
+                            /><cb/>śaṅkhinīsvarasasiddham apatānakinām pariṣekādiṣu yojyam
+                            abhuktavatām pītam amlan dadhi mari<lb n="5"/>cayuktam
+                            apatānakam a<unclear>pa</unclear>hanti | sarppistailavasāmajjā
+                            vā etac chu<g ref="#newa-gap-filler"
+                            /><cb/>ddhavātāpatānakavidhim uktaṃ | saṃsṛṣṭe saṃsṛṣṭaṅ
+                            karttavyaṃ | vegāntareṣu cāvapīḍān dadyāt | tāmra<lb n="6"
                             />cūḍakarkkaṭakakṛṣṇamatsyaśiśumārarasāñ
                                 cāve<unclear>kṣye</unclear>ta | kṣīrāni vātaharasiddhāni |
                                 yavakola<unclear>ku</unclear>latthamūlakadadhighṛtatailasiddhāṃ
