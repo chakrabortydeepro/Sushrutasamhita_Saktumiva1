@@ -2753,13 +2753,13 @@
                     <lg xml:id="SS.4.5.17">
                         <l> vyāyāmam maithunaṃ kopam uṣṇāmlalavaṇāśanaṃ |
                             <caesura/>
-                             divāsvapnam abhiṣyandi guru cānnam vivarjjayed iti || </l>
+                             divāsvapnam abhiṣyandi guru cānnam vivarjjayed || iti || </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 4.5.17]</trailer>
                     </lg>
 
                     <lg xml:id="SS.4.5.18">
                         <l> athāpatānakinam asrastākṣam avakrabhruvam astabdhāṅgulam asvedanam
-                            avepanam apralāpinam iti pāṭhaḥ akhaṭvāyātinam abahirāyāminañ copakramet
+                            avepanam apralāpinam akhaṭvāpātinam abahirāyāminañ copakramet
                             | tatra prāg eva snehābhyaktaṃ svinnaśarīram avapīḍena tīkṣṇenopakramet
                             śiraḥśuddhyarthaṃ | athānantaram
                             vidārigandhādikvāthekṣurasakṣīradadhivipakvaṃ sarppir accham pāyayet |
