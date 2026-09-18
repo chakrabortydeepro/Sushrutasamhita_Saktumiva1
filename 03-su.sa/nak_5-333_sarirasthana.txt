@@ -1635,11 +1635,11 @@ C) Special notes :
                     </lg>
 
                     <lg xml:id="SS.3.4.94ab">
-                        <l> laulupañ cāpy adātāraṃ pretasatvam vidu<cb/>r nnaram ||</l>
+                        <l> lolupañ cāpy adātāraṃ pretasatvam vidu<cb/>r nnaram ||</l>
                     </lg>
 
                     <lg xml:id="SS.3.4.90cd">
-                        <l> pravuddhakāmām asevī vā jasrāsāhāra eva ca | </l>
+                        <l> pravuddhakāmasevī vājasr<subst><del>ām</del><add>am</add></subst> āhāra eva ca | </l>
                     </lg>
 
 
@@ -1654,10 +1654,9 @@ C) Special notes :
                     </lg>
 
                     <lg xml:id="SS.3.4.95">
-                        <l> durmmedha<g ref="#broken-danda"/>stvaṃ mandatā ca svapna
-                            maithunanityatā |
+                        <l> durmmedha<g ref="#broken-danda"/>stvaṃ mandatā ca svapnamaithunanityatā |
                             <caesura/>
-                             nirākaṣṇutā śūcā vijñeyāḥ <g ref="#upadhmaniya"/>pāśavā guṇāḥ
+                             nirākaṣṇutāśūrā vijñeyāḥ <g ref="#upadhmaniya"/>pāśavā guṇāḥ
                             || </l>
                     </lg>
 

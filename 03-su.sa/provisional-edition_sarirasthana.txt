@@ -79,9 +79,9 @@
                             target="https://www.panditproject.org/entity/113868/manuscript"
                         />.</witness>
 
-                    <witness xml:id="RORI_6838">MS Jaipur RORI 6838 <abbr type="siglum"
+                    <witness xml:id="RORI_6838">MS Jaipur RORI 6838<abbr type="siglum"
                             >RORI_6838</abbr>
-                        <idno type="siglum">MS Jaipur RORI 6838</idno> A paper manuscript
+                        <idno type="siglum">Jaipur RORI 6838</idno> A paper manuscript
                         in Western Indian Devanāgarī. See description at PanditProject
                             <ptr
                             target="https://www.panditproject.org/entity/108061/manuscript"
@@ -1062,7 +1062,7 @@
                             spraṣṭā ghrātā draṣṭā śrotā rasayitā puruṣo gantā sākṣī dhātā
                             vaktā yaḥ ko 'sāv ādya āyur ity evam ādibhiḥ paryāyavācakair
                             nnāmabhir abhidhīyate | daivasaṃyogād akṣayo 'vyayo 'cintyo
-                            bhūtātmā satvarajastamobhir ddevāsurair aparaiś ca saha
+                            bhūtātmā sattvarajastamobhir ddevāsurair aparaiś ca saha
                             bhāvair vvāyunā preryamāṇo garbbhāśayam anupraviśati || </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.3.4]</trailer>
                     </lg>
@@ -1346,13 +1346,13 @@
 
                     <lg xml:id="SS.3.3.33">
                         <l> tatra pitṛjamātṛja<pc> </pc>rasajātmaja<pc
-                            > </pc>satvasātmyajāni śarīre lakṣaṇāni vakṣyāmaḥ || tatra
+                            > </pc>sattvasātmyajāni śarīre lakṣaṇāni vakṣyāmaḥ || tatra
                                 keśaśmaśru<pc> </pc>danta<pc> </pc>nakha<pc
                                 > </pc>romāsthi<pc> </pc>retaḥ<pc> </pc>prabhṛtīni
                             pitṛjāni || māṃsaśoṇitamedomajjā<pc> </pc>hṛnnābhi<pc
                             > </pc>yakṛtplīhāntragudaprabhṛtīni mṛdūni mātṛjāni |
                             śarīropacayo balavṛddhir vvarṇṇasthitihāniś ca rasajāni |
-                            indriyāṇi jñānam āyuḥ sukhaduḥkhādikaṃ cātmanaḥ | satvajāny
+                            indriyāṇi jñānam āyuḥ sukhaduḥkhādikaṃ cātmanaḥ | sattvajāny
                             uttaratra vakṣyāmaḥ | vīryam ārogyam balaṃ varṇṇo medhā ca
                             sātmyajaṃ || </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.3.33]</trailer>
@@ -2135,7 +2135,7 @@
                     </lg>
 
                     <lg xml:id="SS.3.4.90ab">
-                        <l> vihārāhāracapalaṃ sarppasatvam vidur nnaraṃ || </l>
+                        <l> vihārāhāracapalaṃ sarppasattvam vidur nnaraṃ || </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.4.90ab]</trailer>
                     </lg>
 
@@ -2149,17 +2149,17 @@
                     </lg>
 
                     <lg xml:id="SS.3.4.94ab">
-                        <l> lolupañ cāpy adātāraṃ pretasatvam vidur nnaram ||</l>
+                        <l> lolupañ cāpy adātāraṃ pretasattvam vidur nnaram ||</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.4.94ab]</trailer>
                     </lg>
 
                     <lg xml:id="SS.3.4.90cd">
-                        <l> prabuddhakāmām asevī vājasrāsāhāra eva ca | </l>
+                        <l> prabuddhakāmasevī cājasram āhāra eva ca | </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.4.90cd]</trailer>
                     </lg>
 
                     <lg xml:id="SS.3.4.91ab">
-                        <l> amarṣaṇo navasthānaḥ śākunaṃ satvam ucyate ||</l>
+                        <l> amarṣaṇo 'navasthānaḥ śākunaṃ sattvam ucyate ||</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.4.91ab]</trailer>
                     </lg>
 
@@ -2169,9 +2169,9 @@
                     </lg>
 
                     <lg xml:id="SS.3.4.95">
-                        <l> durmedhastvaṃ mandatā ca svapna maithunanityatā |
+                        <l> durmedhastvaṃ mandatā ca svapnamaithunanityatā |
                             <caesura/>
-                             nirākaṣṇutā śūcā vijñeyāḥ pāśavā guṇāḥ || </l>
+                             nirākariṣṇutāśūrā vijñeyāḥ pāśavā guṇāḥ || </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.4.95]</trailer>
                     </lg>
 
@@ -2183,9 +2183,9 @@
                     </lg>
 
                     <lg xml:id="SS.3.4.97">
-                        <l> satvabudhāṅgahīnaḥ syād āhāre kevale rataḥ |
+                        <l> sattvabudhāṅgahīnaḥ syād āhāre kevale rataḥ |
                             <caesura/>
-                             priyārthakāmarahitaḥ satva vānaspate sthitaḥ naraḥ || </l>
+                             priyārthakāmarahitaḥ sattva vānaspate sthitaḥ naraḥ || </l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.4.97]</trailer>
                     </lg>
 
@@ -4137,7 +4137,7 @@
                             vā na prabodhayed vitrāsabhayāt | sahasā nāhared utkṣiped
                             vātābhighātabhayān nopaveśayet kauvjabhayān nityaṃ cainam
                             anuvartteta priyahitair eva m abhihitamanādyamapyabhivarddhate
-                            nityamudagrasatvasampannastv arogo bhavati ||</l>
+                            nityamudagrasattvasampannastv arogo bhavati ||</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 3.10.46]</trailer>
                     </lg>
 
