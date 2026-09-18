@@ -3320,7 +3320,7 @@
                     </lg>
 
                     <lg xml:id="SS.4.7.21">
-                        <l> grāmyasatvaśakṛtkṣāraiḥ saṃyuktaṃ kṣārasādhitaṃ ||
+                        <l> grāmyasattvaśakṛtkṣāraiḥ saṃyuktaṃ kṣārasādhitaṃ ||
                             <caesura/>
                              tatroṣakādirāvāpaḥ kāryas trikaṭukāyutaḥ |</l>
                         <trailer xml:lang="en">[cf. 1938 ed. 4.7.21]</trailer>
@@ -4232,7 +4232,7 @@
                     <lg xml:id="SS.4.9.51">
                         <l> kuṣṭhīmāṃseṣv avadīryatsu khādet mudgaṃ siddhannimbatoye satailaṃ |
                             <caesura/>
-                             nimbakvāthaṃ jātasatvaḥ pibed vā kvātham vā syādarkkasaptacchadābhyāṃ
+                             nimbakvāthaṃ jātasattvaḥ pibed vā kvātham vā syādarkkasaptacchadābhyāṃ
                             ||</l>
                         <trailer xml:lang="en">[1938 ed. 4.9.51]</trailer>
                     </lg>
